@@ -4,7 +4,8 @@ Created on Mon Jul  3 22:11:53 2023
 
 @author: Shubhi Tiwari
 """
-
+V=5
+adj=[[],[],[3],[1],[0,1],[0,2]]
 
 from collections import deque
 
